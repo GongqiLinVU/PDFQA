@@ -51,3 +51,8 @@ Creating a ChatGPT chatbot for your PDF files using GPT-4 and LangChain is a fas
     - Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *arXiv preprint arXiv:1908.10084*.
     - Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. *arXiv preprint arXiv:1810.04805*.
 
+
+Related projects:
+
+1. Pinecone: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
+2. faiss: https://github.com/anpigon/gpt4-pdf-chatbot-langchain-faiss
