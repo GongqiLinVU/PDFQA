@@ -12,46 +12,26 @@ Integrate GPT-4 and LangChain to create a seamless conversational interface for 
 
 ## Research Points
 
-### 1. PDF Parsing and Text Extraction
 
-- Understand the structure of PDFs.
-- Extract text and graphics.
-- Convert non-textual info into a textual format.
-
-### 2. Document Indexing and Information Retrieval
-
-- Breakdown PDF content.
-- Index and search the extracted info.
-- Return relevant info in response to queries.
-
-### 3. Natural Language Understanding (NLU)
+### 1. Natural Language Understanding (NLU)
 
 - Interpret user queries.
 - Translate user intent.
 - Understand context and manage dialog.
 
-### 4. Chatbot Interaction and Feedback Loop
+### 2. Chatbot Interaction and Feedback Loop
 
 - Provide a conversational interface.
 - Gather feedback and improve responses.
 - Allow query refinements.
 
-### 5. Integration of All Components
+### 3. Integration of All Components
 
 - Integrate PDF extraction, indexing, and chat interface.
 - Handle large data volumes.
 - Ensure real-time performance.
 
 ## Related Papers
-
-### PDF Parsing and Text Extraction
-
-- Smith, R. (2007). [An overview of the Tesseract OCR engine](#link-to-paper).
-- Zanibbi, R., et al. (2002). [A survey of table recognition](#link-to-paper).
-
-### Document Indexing and Information Retrieval
-
-- Manning, C. D., et al. (2008). [Introduction to Information Retrieval](#link-to-paper).
 
 ### Natural Language Understanding (NLU):
 
