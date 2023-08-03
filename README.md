@@ -9,8 +9,6 @@ Integrate GPT-4 and LangChain to create a seamless conversational interface for 
 - [Research Points](#research-points)
 - [Related Papers](#related-papers)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Research Points
 
@@ -66,29 +64,7 @@ Integrate GPT-4 and LangChain to create a seamless conversational interface for 
 
 ## Getting Started
 
-1. **Installation**
-    ```bash
-    git clone https://github.com/your-repo-url.git
-    cd your-repo-name
-    pip install -r requirements.txt
-    ```
-
-2. **Usage**
-    ```bash
-    python main.py --input "path-to-pdf"
-    ```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-Related projects:
-
 1. Pinecone: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 2. faiss: https://github.com/anpigon/gpt4-pdf-chatbot-langchain-faiss
+
+
