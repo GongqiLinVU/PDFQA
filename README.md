@@ -47,5 +47,6 @@ Integrate GPT-4 and LangChain to create a seamless conversational interface for 
 1. Pinecone: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 2. faiss: https://github.com/anpigon/gpt4-pdf-chatbot-langchain-faiss
 3. localGPT: https://github.com/PromtEngineer/localGPT
+4. GPTQ: https://github.com/IST-DASLab/gptq
 
 
